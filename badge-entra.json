@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/badge-entra.json",
+  "name": "Microsoft Applied Skills: Get started with identities and access in Microsoft Entra",
+  "description": "Awarded for demonstrating the foundational knowledge to configure identities, authentication methods, and access in Microsoft Entra.",
+  "image": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/images/badge-entra.png",
+  "criteria": {
+    "narrative": "Earners understand basic identity concepts and can configure authentication and authorization in Microsoft Entra."
+  },
+  "issuer": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/issuer.json"
+}

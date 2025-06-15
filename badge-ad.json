@@ -1,0 +1,12 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/badge-ad.json",
+  "name": "Microsoft Applied Skills: Administer Active Directory Domain Services",
+  "description": "Awarded for demonstrated skills in administering Active Directory Domain Services in Windows Server.",
+  "image": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/images/badge-ad.png",
+  "criteria": {
+    "narrative": "Earners have demonstrated the ability to configure and manage Active Directory Domain Services (AD DS) in a Windows Server environment."
+  },
+  "issuer": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/issuer.json"
+}

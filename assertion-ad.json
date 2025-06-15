@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/assertion-ad.json",
+  "recipient": {
+    "type": "email",
+    "identity": "sha256$c1a3cdb39de34916e8a4d6e7e8b5a3d90c1c31f143e4ebf89b1c986fa22ef1b3", 
+    "hashed": true,
+    "salt": "microsoft2024"
+  },
+  "issuedOn": "2024-06-01T00:00:00Z",
+  "badge": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/badge-ad.json",
+  "verification": {
+    "type": "Hosted"
+  }
+}
