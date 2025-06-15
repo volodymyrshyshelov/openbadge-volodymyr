@@ -4,7 +4,7 @@
   "id": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/assertion-entra.json",
   "recipient": {
     "type": "email",
-    "identity": "sha256$c1a3cdb39de34916e8a4d6e7e8b5a3d90c1c31f143e4ebf89b1c986fa22ef1b3",
+    "identity": "sha256$637f74f8bcdd26fcb45e28ce9e6f736122e9b1b6feaff3ce5c707b574f226b83",
     "hashed": true,
     "salt": "microsoft2024"
   },
