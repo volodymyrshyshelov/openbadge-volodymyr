@@ -2,11 +2,10 @@
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
   "id": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/assertion-ad.json",
-  "recipient": {
+   "recipient": {
     "type": "email",
-    "identity": "sha256$637f74f8bcdd26fcb45e28ce9e6f736122e9b1b6feaff3ce5c707b574f226b83", 
-    "hashed": true,
-    "salt": "microsoft2024"
+    "hashed": false,
+    "identity": "vladimir.shyshelov@gmail.com"
   },
   "issuedOn": "2024-06-01T00:00:00Z",
   "badge": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/badge-ad.json",
