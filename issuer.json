@@ -4,7 +4,6 @@
   "id": "https://volodymyrshyshelov.github.io/openbadge-volodymyr/issuer.json",
   "name": "Microsoft Learn",
   "url": "https://learn.microsoft.com/",
-  "email": "credentials-support@microsoft.com",
   "description": "Microsoft Learn is a platform for applied skills certification and technical training.",
   "image": "https://learn.microsoft.com/favicon.ico"
 }
